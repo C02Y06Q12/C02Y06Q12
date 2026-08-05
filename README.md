@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Nicky 👋
 
-<!--
-**C02Y06Q12/C02Y06Q12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My interests include:
 
-Here are some ideas to get you started:
+- AI Product
+- Data Analytics
+- Machine Learning
+- Natural Language Processing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+- Python
+- SQL
+- Tableau
+- Scikit-learn
+- Pandas
+- NumPy
+
+## Current Projects
+
+- Machine Learning Portfolio Prediction
+- Social Media Audience Insights
+- Customer Behaviour Prediction
+
+## Contact
+
+📧 yche0475@uni.sydney.edu.au
