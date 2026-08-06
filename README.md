@@ -29,9 +29,32 @@ My interests include Machine Learning, Data Analytics, AI Products, and Natural 
 
 ## Current Projects
 
-- Machine Learning Portfolio Prediction & Backtesting
-- Social Media Audience Insight
-- Customer Behaviour Prediction
+## Featured Projects
+
+
+### 📊 ML Portfolio Backtesting Framework
+
+A machine learning based portfolio analysis project exploring financial prediction and strategy evaluation.
+
+Skills:
+Python · Machine Learning · Feature Engineering · Backtesting
+
+
+Repository:
+[C02Y06Q12/ml-portfolio-backtesting]
+
+
+---
+
+### 💬 Social Listening Audience Analytics
+
+An NLP analytics project analysing audience discussions through sentiment analysis, topic modelling and regression analysis.
+
+Skills:
+Python · NLP · Sentiment Analysis · Topic Modelling · Consumer Analytics
+
+Repository:
+[C02Y06Q12/social-listening-audience-analytics]
 
 ## Contact
 
