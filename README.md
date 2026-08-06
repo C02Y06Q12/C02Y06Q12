@@ -1,60 +1,64 @@
 # Hi, I'm Nicky 👋
 
-My interests include Machine Learning, Data Analytics, AI Products, and Natural Language Processing. I enjoy transforming data into practical business insights and continuously exploring how AI can improve real-world decision-making.
+I am focusing on Data Analytics, Machine Learning and AI-driven products.
+
+Interested in applying AI and data technologies to solve real-world business problems, including user behaviour analysis, intelligent products and decision-making systems.
+
 
 ## Current Focus
 
-- Machine Learning
-- Data Analytics
-- AI Product
-- Natural Language Processing
+AI Product Management
+
+Data Analytics
+
+User Behaviour Analytics
+
+Machine Learning Applications
+
+Natural Language Processing
 
 ## Tech Stack
 
-**Programming**
-- Python
-- SQL
+Data Analytics
+• Python
+• SQL
+• Tableau
+• SPSS
 
-**Data & Machine Learning**
-- Pandas
-- NumPy
-- Scikit-learn
-- Tableau
-- SPSS
+Machine Learning
+• Pandas
+• NumPy
+• Scikit-learn
 
-**AI**
-- Coze
-- Workflow
-- Prompt Engineering
-
-## Current Projects
+NLP & AI
+• Sentiment Analysis
+• Topic Modelling
+• LLM Applications
 
 ## Featured Projects
 
-
 ### 📊 ML Portfolio Backtesting Framework
 
-A machine learning based portfolio analysis project exploring financial prediction and strategy evaluation.
+A machine learning based portfolio analysis project exploring investment strategy evaluation and model performance.
 
 Skills:
 Python · Machine Learning · Feature Engineering · Backtesting
 
-
-Repository:
-[C02Y06Q12/ml-portfolio-backtesting]
+🔗 Repository:
+[View Project](https://github.com/C02Y06Q12/ml-portfolio-backtesting)
 
 
 ---
 
 ### 💬 Social Listening Audience Analytics
 
-An NLP analytics project analysing audience discussions through sentiment analysis, topic modelling and regression analysis.
+An NLP-based consumer analytics project analysing audience discussions through sentiment analysis, topic modelling and regression analysis.
 
 Skills:
 Python · NLP · Sentiment Analysis · Topic Modelling · Consumer Analytics
 
-Repository:
-[C02Y06Q12/social-listening-audience-analytics]
+🔗 Repository:
+[View Project](https://github.com/C02Y06Q12/social-listening-audience-analytics)
 
 ## Contact
 
